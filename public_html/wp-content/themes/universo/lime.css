@@ -1,0 +1,75 @@
+a, #mainmenu li:hover > ul,
+.date-box .day,
+.comments_number,
+.slider_text h1,
+.id-color,
+.pricing-box h1,
+.title span, .tbox b,
+.feature-box:hover i.large,
+.widget li a:hover,
+.sidebar .widget > ul li a:hover,
+.acc_head:hover,
+.acc_active .acc_head,
+.call-to-action h3 b,
+.de_tab .de_nav li span.active,
+.search-form:before, h3.single-title{
+	color: #8BAD01;
+}
+
+i.large, .bg-primary,
+.feature-box-small-icon i,
+#mainmenu li li a:hover,
+.blog-list .date,
+.date-box .month,
+.blog-read .date,
+.slider-info .text1,
+#filters a.selected,
+div.overlay, span.overlay,
+#testimonial-full,
+.widget_tag_cloud li a,
+.btn-primary, #mainmenu a:hover, 
+.bg-id-color, .rectangle-bounce div, #wp-calendar tbody td#today{
+	background: #8BAD01;
+} 
+.callbacks_nav,
+.form-submit #submit, .pricing-dark.pricing-box .price-row,
+.whmcs-widget input[type=submit], #bridge input[type=submit]
+ {
+  background-color: #8BAD01;
+}
+.filters a:hover,
+.filters a.selected,
+.search-form #s:focus,
+#author:focus,
+#email:focus,
+#website:focus,
+#comment:focus{
+  border: 1px solid #8BAD01;
+}
+.social-icon:hover{
+  background-color: #8BAD01;
+  color: #fff;
+}
+
+.product_meta .posted_in a:hover {color: #8BAD01;}
+.woocommerce .woocommerce-breadcrumb a:hover{color: #212121;}
+.woocommerce #respond input#submit,.woocommerce a.button,
+.woocommerce button.button,.woocommerce input.button{background-color: #8BAD01;}
+.woocommerce p.stars a, .woocommerce ul.product_list_widget li span.amount,
+.cart_totals.dotted_cart_total table td strong, .woocommerce div.product p.price,.woocommerce div.product span.price,
+.woocommerce div.product p.price ins, .woocommerce div.product span.price ins, .woocommerce .star-rating span,
+.woocommerce .star-rating:before, .woocommerce ul.cart_list li a:hover,.woocommerce ul.product_list_widget li a:hover{color: #8BAD01;}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .added_to_cart.wc-forward, .woocommerce span.onsale, .woocommerce-page span.onsale,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range{background-color:#8BAD01;}
+p.product-title a:hover {color: #8BAD01;text-decoration: none;}
+.woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover, .woocommerce #content .quantity .plus:hover, 
+.woocommerce #content .quantity .minus:hover, .woocommerce-page .quantity .plus:hover, 
+.woocommerce-page .quantity .minus:hover, .woocommerce-page #content .quantity .plus:hover, 
+.woocommerce-page #content .quantity .minus:hover, .woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce nav.woocommerce-pagination ul li a:focus,.woocommerce nav.woocommerce-pagination ul li a:hover {background: #8BAD01;}
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt{background: #8BAD01;}
+.woocommerce .woocommerce-message::before {color: #8BAD01;}
+.woocommerce .woocommerce-message {
+  border-top-color: #8BAD01;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {color: #8BAD01;}
